@@ -1,0 +1,14 @@
+URL: https://pokeapi.co/api/v2/pokemon
+
+Request Method: GET | POST | PUT | DELETE
+
+/api/v2/pokemon/${id} -> Atributo dinâmico
+
+/api/v2/pokemon?type=grass&name=i -> Query String
+https://pokeapi.co/api/v2/pokemon
+
+?offset=20&limit=20 -> Exemplo de Query String
+
+Request Headers
+    Configuração da nossa API
+Response Headers
