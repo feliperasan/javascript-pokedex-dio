@@ -4,7 +4,7 @@
 [![NPM](https://img.shields.io/github/license/feliperasan/component-starwars-dio)](https://github.com/feliperasan/pokedex-challenge-dio/blob/main/LICENSE)
 
 # Sobre o projeto
-Pokedex da 1ª Geração, é um projeto que consiste em visualizar Pokémons da primeira geração, via web utilizando conceitos responsivos, paginação e de consumo de REST API ([PokeAPI](https://pokeapi.co/)). O projeto foi feito durante o Fullstack Bootcamp - Warburg Pincus, da plataforma [DIO](https://www.dio.me), no modulo "Primeiras Páginas Interativas com Javascript".
+Pokedex da 1ª Geração, é um projeto que consiste em visualizar os 153 Pokémons que completam a primeira geração, via web utilizando conceitos responsivos, paginação e de consumo de REST API ([PokeAPI](https://pokeapi.co/)). O projeto foi feito durante o Fullstack Bootcamp - Warburg Pincus, da plataforma [DIO](https://www.dio.me), no modulo "Primeiras Páginas Interativas com Javascript".
 
 ## Layout Web
 <img src="https://user-images.githubusercontent.com/32422863/202558310-0a1428ae-c345-4223-8717-4f28d121ea50.gif" alt="Pokedex">
